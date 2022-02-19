@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Nawaf-Midterm20</string>
+    <string name="got1">goto Act_1</string>
+    <string name="got2">goto Act_2</string>
+    <string name="got3">goto Act_3</string>
+    <string name="urName">Insert Your Name</string>
+    <string name="urBirth">Insert Your Birth Year</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+</resources>
